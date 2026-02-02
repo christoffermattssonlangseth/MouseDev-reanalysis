@@ -1,0 +1,30 @@
+# Data
+/data/
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.rds
+*.rdata
+*.rda
+*.rproj.user/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
